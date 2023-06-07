@@ -1,3 +1,8 @@
+
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="image-description" height="100">
+<img src="https://redux-toolkit.js.org/img/redux-logo-landscape.png" alt="image-description" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/885px-Node.js_logo.svg.png?20170401104355" alt="image-description" height="100">
+
 ## Installation
 
 - clone the repository
